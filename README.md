@@ -9,4 +9,4 @@
 4. Restart Photoshop. The script should now be available in `File ▸ Scripts ▸ trim-to-P2`.
 
 ### Usage
-Trim a layer in Photoshop while keeping the dimensions divisible by 2
+Trim a layer in Photoshop while keeping the dimensions divisible by 2.

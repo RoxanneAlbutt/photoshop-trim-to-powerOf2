@@ -10,3 +10,8 @@
 
 ### Usage
 Trim a layer in Photoshop while keeping the dimensions divisible by 2.
+
+### License
+Copyright © 2019 Roxanne Albutt 
+
+Trim to Power of 2 is licensed under the MIT licence. All rights not explicitly granted in the MIT license are reserved. See the included LICENSE file for more details.

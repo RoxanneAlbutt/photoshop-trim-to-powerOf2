@@ -3,7 +3,7 @@ This script will trim a layer in Photoshop while keeping the dimensions divisibl
 
 ### Install
 
-1. Download [trim-to-p2.zip]
+1. Download [trim-to-p2.zip](https://github.com/RoxanneAlbutt/photoshop-trim-to-powerOf2/blob/master/trim-to-p2.zip)
 2. Place `trim-to-P2` in the Photoshop Scripts folder.
 	- OS X: `/Applications/[Photoshop]/Presets/Scripts/`
 	- Windows: `C:\[Program Files]\Adobe\[Photoshop]\Presets\Scripts`
